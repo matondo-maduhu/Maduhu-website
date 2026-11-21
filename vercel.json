@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/projects", "destination": "/api/projects.js" },
+    { "source": "/api/admin-requests", "destination": "/api/admin-requests.js" }
+  ]
+}
